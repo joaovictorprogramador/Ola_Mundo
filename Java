@@ -1,0 +1,9 @@
+// Essa é a forma de "dizer" 'Olá Mundo!' na linguagem JAVA. (Isso é um comentário)
+
+public class Main
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Olá Mundo! Na linguagem Java.");
+    }
+}
