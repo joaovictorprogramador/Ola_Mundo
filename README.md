@@ -1,5 +1,5 @@
-# Olá Mundo em diferentes linguagens
-Essa pasta foi criada para mostrar como se _escreve_ **"Olá Mundo!"** em diferentes linguagens.
+<h1 align="center">Olá Mundo em diferentes linguagens</h1>
+<p align="center"><i>Essa pasta foi criada para mostrar como se _escreve_ **"Olá Mundo!"** em diferentes linguagens.</i></p>
 
 ## JAVA
 ```
