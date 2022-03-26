@@ -1,7 +1,8 @@
 <h1 align="center"><b>"Olá Mundo!"</b></h1>
 <p align="center"><i>Este repositório foi criada para mostrar como se escreve <b>"Olá Mundo!"</b> em diferentes linguagens.</i></p>
 
-## JAVA
+<h2>JAVA</h2>
+
 ```
 public class Main
 {
