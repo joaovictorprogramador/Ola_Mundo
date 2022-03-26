@@ -13,12 +13,14 @@ public class Main
 }
 ```
 
-## PYTHON
+<h2>PYTHON</h2>
+
 ```
 print ("Olá Mundo! Na linguagem Python.")
 ```
 
-## HTML
+<h2>HTML</h2>
+
 ```
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -34,7 +36,8 @@ print ("Olá Mundo! Na linguagem Python.")
 </html>
 ```
 
-## PHP
+<h2>PHP</h2>
+
 ```
 <?php
     echo "Olá Mundo! Na linguagem PHP.";
