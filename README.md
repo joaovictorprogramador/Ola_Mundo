@@ -27,8 +27,15 @@ print ("Olá Mundo! Na linguagem Python.")
         <title>Ola Mundo! Na aba do navegador.</title>
     </head>
     <body>
-        <h1>Olá Mundo! Na linguagem HTML!</h1>
+        <h1>Olá Mundo! Na linguagem de MARCAÇÃO HTML!</h1>
         <p>Lembrando: HTML NÃO é uma linguagem de PROGRAMAÇÃO!</p>
     </body>
 </html>
+```
+
+## PHP
+```
+<?php
+    echo "Olá Mundo! Na linguagem PHP.";
+?>
 ```
