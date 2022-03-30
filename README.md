@@ -56,3 +56,18 @@ int main()
 }
 
 ```
+
+<h2>C++</h2>
+
+```
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World";
+
+    return 0;
+}
+```
