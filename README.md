@@ -52,7 +52,6 @@ print ("Olá Mundo! Na linguagem Python.")
 int main()
 {
     printf("Hello World");
-
     return 0;
 }
 
