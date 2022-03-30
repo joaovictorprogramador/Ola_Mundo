@@ -43,3 +43,17 @@ print ("Olá Mundo! Na linguagem Python.")
     echo "Olá Mundo! Na linguagem PHP.";
 ?>
 ```
+
+<h2>C</h2>
+
+```
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
+
+```
